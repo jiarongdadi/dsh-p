@@ -1,7 +1,7 @@
 {
   "name": "dsh-purge",
   "version": "1.0.0",
-  "description": "dsh 指令权威性清洗插件（小杨）：三层清洗 8 patch + 启动自动重洗 + /purge 命令 + 模型工具。移植自 dsh_purge.py，功能一个不差。",
+  "description": "dsh 插件",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
